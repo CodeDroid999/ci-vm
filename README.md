@@ -1,5 +1,5 @@
 
-### Riskxvii-vm
+### ci-vm
 
 Riskxvii-vm is a commandline invoked virtual machine implementation in C. It takes machine code as command line aeguments, assembles it into assembly instructions which are saved in binary files.
 
